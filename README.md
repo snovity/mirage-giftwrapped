@@ -13,7 +13,7 @@ Confirmed to work with Ember 1.1
 
 ## Installation
 
-Copy the files from `vendor` folder to your Ember app `vendor` folder
+Copy the files from `vendor` folder to your Ember app's `vendor` folder
 and add them to the vendor assets being built.
 
 Order in which files are added is not important.
