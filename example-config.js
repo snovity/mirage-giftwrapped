@@ -15,7 +15,7 @@ var mirageFactories = {
 
 var mirageScenarios = {
   default: function(server) {
-    // your scenarios here
+    server.createList('user', 3);
   }  
 };
 
