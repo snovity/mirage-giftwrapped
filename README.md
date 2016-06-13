@@ -1,1 +1,1 @@
-Readme
+Confirmed to work with Ember 1.1.3
